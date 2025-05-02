@@ -7,7 +7,7 @@ excerpt: '针对时空众包的动态复杂性而导致的收敛性差、动态�
 date: 2024-02-15
 venue: 'Knowledge-Based Systems'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://1011DINGWEI.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Ding W, Ming Z*, Wang G, Yan Y. (2024). &quot;System-of-systems approach to spatio-temporal crowdsourcing design using improved PPO algorithm based on an invalid action.&quot; <i>Knowledge-Based Systems</i>. 285: 111381.'
 ---
