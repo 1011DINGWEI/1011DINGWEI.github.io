@@ -7,7 +7,7 @@ excerpt: '针对铝电解制造系统具有多参数、动态时变、过程数�
 date: 2021-01-07
 venue: 'Applied Soft Computing'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://1011DINGWEI.github.io/files/paper2.pdf'
 citation: 'Ding W, Yao L*, Li Y, et al. (2021). &quot;Dynamic evolutionary model based on a multi-sampling inherited HAPFNN for an aluminium electrolysis manufacturing system.&quot; <i>Applied Soft Computing</i>. 99: 106925.'
 ---
 
