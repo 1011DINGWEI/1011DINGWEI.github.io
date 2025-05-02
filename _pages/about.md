@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-大家好，我是丁伟，我的家乡是安徽省淮北市，现就读于北京理工大学。
+大家好，我是丁伟，今年29岁，我的家乡是安徽省淮北市，本科毕业于合肥大学，硕士毕业于四川大学机械工程学院，现就读于北京理工大学机械与车辆学院。
 
 I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
