@@ -25,9 +25,9 @@ author:
   avatar           : "丁伟.png"
   name             : "丁伟 / Ding Wei"
   pronouns         : # example: "she/her"  
-  bio              : "BIT"
-  location         : "China"
-  employer         : "北京理工大学 / Beijing Institute of Technology"
+  bio              : "Huaibei, Anhui, China"
+  location         : "Beijing, China"
+  employer         : "Beijing Institute of Technology"
   uri              : https://1011DINGWEI.github.io  # URL
   email            : "dingwei1995@qq.com" 
 
@@ -66,7 +66,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -79,11 +78,11 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'   
+    title: '外文期刊文章 Foreign Journal Articles'   
   Chinese manuscripts:
-    title: 'Journal Chinese Articles'    
+    title: '中文期刊文章 Chinese Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: '会议论文 Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
