@@ -23,13 +23,13 @@ repository               : "DingWei/DingWei.github.io"
 author:
   # Biographic information
   avatar           : "丁伟.png"
-  name             : "Ding Wei"
+  name             : "丁伟 / Ding Wei"
   pronouns         : # example: "she/her"  
   bio              : "BIT"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "北京理工大学 / Beijing Institute of Technology"
   uri              : https://1011DINGWEI.github.io  # URL
-  email            : "none@example.org" 
+  email            : "dingwei1995@qq.com" 
 
   # Academic websites
   academia         : # URL
