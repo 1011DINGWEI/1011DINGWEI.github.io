@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "un-US"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Ding Wei / Site Title"
 title_separator          : "-"
