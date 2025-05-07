@@ -3,7 +3,7 @@ title: "A multiobjective prediction model with incremental learning ability by d
 collection: publications
 category: manuscripts
 permalink: /Applied Intelligence/2022-04-01-journal-paper-4
-excerpt: '文章简介：为提高电解铝工艺过程中电流效率和降低能耗，提出了一种基于多源滤波神经网络MSFNN的多目标增量学习框架，并适用于复杂的噪声环境。'
+excerpt: '**文章简介**：为提高电解铝工艺过程中电流效率和降低能耗，提出了一种基于多源滤波神经网络MSFNN的多目标增量学习框架，并适用于复杂的噪声环境。'
 date: 2022-04-01
 venue: 'Applied Intelligence'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
