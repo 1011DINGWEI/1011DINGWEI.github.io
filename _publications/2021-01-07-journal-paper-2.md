@@ -3,7 +3,7 @@ title: "Dynamic evolutionary model based on a multi-sampling inherited HAPFNN fo
 collection: publications
 category: manuscripts
 permalink: /Applied Soft Computing/2021-01-07-paper-title-number-2
-excerpt: '文章简介：针对铝电解制造系统具有多参数、动态时变、过程数据非高斯分布等复杂特性，构建了一种基于多采样继承的混合退火粒子滤波神经网络MSI-HAPFNN动态自适应模型。'
+excerpt: '**文章简介**：针对铝电解制造系统具有多参数、动态时变、过程数据非高斯分布等复杂特性，构建了一种基于多采样继承的混合退火粒子滤波神经网络MSI-HAPFNN动态自适应模型。'
 date: 2021-01-07
 venue: 'Applied Soft Computing'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
