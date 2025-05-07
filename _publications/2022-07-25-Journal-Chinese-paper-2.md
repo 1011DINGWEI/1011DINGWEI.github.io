@@ -3,7 +3,7 @@ title: "基于多层次LSTM网络的多智能体攻防效能动态预测模型"
 collection: publications
 category: Chinese manuscripts
 permalink: /Chinese publication/2022-07-25-Journal-Chinese-paper-2
-excerpt: '文章简介：本文针对多智能体攻防体系作战效能预测过程中动态性差、准确性低和可解释性弱的问题，构建了一种基于多层次长短时记忆LSTM神经网络的多智能体攻防效能动态预测模型。'
+excerpt: '**文章简介**：本文针对多智能体攻防体系作战效能预测过程中动态性差、准确性低和可解释性弱的问题，构建了一种基于多层次长短时记忆LSTM神经网络的多智能体攻防效能动态预测模型。'
 date: 2022-07-25
 venue: '兵工学报'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
